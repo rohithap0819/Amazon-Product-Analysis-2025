@@ -7,7 +7,7 @@
 ## 📊 Dashboard Preview
 
 ### Page 1 — Overview
-![Overview Dashboard](https://github.com/rohithap0819/Amazon-Product-Analysis-2025/blob/main/Amazon%20product%20analysis-2025.pdf)
+![Overview Dashboard]([https://github.com/rohithap0819/Amazon-Product-Analysis-2025/blob/main/Amazon%20product%20analysis-2025.pdf](https://github.com/rohithap0819/Amazon-Product-Analysis-2025/blob/main/Images))
 
 > The Overview page shows the complete product landscape — category distribution, price tier split, discount tier breakdown, and 4 headline KPI cards.
 
